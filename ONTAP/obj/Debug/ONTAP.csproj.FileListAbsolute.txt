@@ -1,0 +1,499 @@
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\ONTAP.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\ONTAP.pdb
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\Antlr3.Runtime.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\EntityFramework.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\Newtonsoft.Json.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Net.Http.Formatting.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.Http.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.Http.WebHost.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.Mvc.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.Optimization.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.Providers.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.Razor.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.WebPages.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\WebGrease.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\EntityFramework.xml
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\Newtonsoft.Json.xml
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Net.Http.Formatting.xml
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.Http.xml
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.Http.WebHost.xml
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.Mvc.xml
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.Razor.xml
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.WebPages.xml
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.xml
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.xml
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\obj\Debug\ONTAP.dll
+D:\NGOC TY\HOC TAP\Cong nghe Web\ONTAP_KT_Tuan5\ONTAP\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\ONTAP.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\ONTAP.pdb
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\WebGrease.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\Admin\Desktop\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.pdb
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\ONTAP.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\ONTAP.pdb
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\Antlr3.Runtime.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\EntityFramework.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.Optimization.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.Providers.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\WebGrease.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\EntityFramework.xml
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.xml
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.xml
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.xml
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.xml
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.xml
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.xml
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.xml
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.xml
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.xml
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.dll
+E:\NGOC TY\HOC TAP\TEST\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\ONTAP.dll.config
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\ONTAP.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\ONTAP.pdb
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\EntityFramework.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Providers.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\WebGrease.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\EntityFramework.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\PagedList.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.dll
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\PagedList.xml
+C:\Users\T\Desktop\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.dll.config
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.pdb
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\EntityFramework.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\PagedList.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Providers.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\WebGrease.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\PagedList.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\EntityFramework.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\nguye\Desktop\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.pdb
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\EntityFramework.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\PagedList.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Providers.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\WebGrease.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\PagedList.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\EntityFramework.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\USER\Documents\Zalo Received Files\web\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.pdb
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\Antlr3.Runtime.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\EntityFramework.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\PagedList.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Optimization.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Providers.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\WebGrease.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\PagedList.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\EntityFramework.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.pdb
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.pdb
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\Antlr3.Runtime.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\EntityFramework.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\PagedList.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Optimization.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Providers.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\WebGrease.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\PagedList.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\EntityFramework.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.xml
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.dll
+E:\NGOC TY\HOC TAP\TEST\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\ONTAP.pdb
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\EntityFramework.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\PagedList.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Providers.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\WebGrease.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\PagedList.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\PagedList.Mvc.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\EntityFramework.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_icon\web\ONTAP\ONTAP\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\ONTAP.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\ONTAP.pdb
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\WebGrease.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\Admin\Desktop\SAS\KiemThuPhanMen\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\ONTAP.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\ONTAP.pdb
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\EntityFramework.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.Mvc.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Providers.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\WebGrease.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.Mvc.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\EntityFramework.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\ONTAP.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\ONTAP.pdb
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\Admin\Desktop\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\ONTAP.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\ONTAP.pdb
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\WebGrease.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\Admin\Desktop\DoAn\abc\Đồ án Kiểm Thử Chất Lượng Phần Mềm Final 2\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\ONTAP.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\ONTAP.pdb
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\EntityFramework.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.Mvc.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Providers.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\WebGrease.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\PagedList.Mvc.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\EntityFramework.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\USER\Desktop\Công nghệ phần mềm\DoAnKiemThuChatLuongPhanMem_Source\ONTAP\obj\Debug\ONTAP.pdb
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\ONTAP.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\ONTAP.pdb
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\EntityFramework.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\PagedList.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\PagedList.Mvc.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.Http.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.Providers.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\WebGrease.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\PagedList.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\PagedList.Mvc.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\EntityFramework.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.Http.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\obj\Debug\ONTAP.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\obj\Debug\ONTAP.dll
+C:\Users\USER\Desktop\Báo cáo công nghệ phần mềm\DAMH_Nhom8_2001170195_LeChiToan_XayDungTrangWebBanLaptop_PhanSourceCode\DoAnCongNghePhanMem_Source\ONTAP\obj\Debug\ONTAP.pdb

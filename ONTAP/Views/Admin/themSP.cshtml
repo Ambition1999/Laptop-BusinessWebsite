@@ -1,0 +1,135 @@
+﻿@{
+    ViewBag.Title = "themSP";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Thêm Sản Phẩm</h2>
+<form action="themSP" method="post" enctype="multipart/form-data">
+    <table class="w-100">
+        <tr>
+            <td>
+                <label>Tên Thiết Bị</label>
+            </td>
+            <td>
+                <input type="text" name="txtName" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Nhãn Hiệu</label>
+            </td>
+            <td>
+                <input type="text" name="txtHH" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Loại Thiết bị</label>
+            </td>
+            <td>
+                <label class="form-control">@Html.DropDownList("LoaiThietBi")</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Nhà Cung Cấp</label>
+            </td>
+            <td>
+                <label class="form-control">@Html.DropDownList("NhaCungCap")</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Mô Tả</label>
+            </td>
+            <td>
+                @*                <input type="text" name="txtMoTa" value="@Model.MoTa" class="form-control"/>*@
+                <textarea class="form-control" name="txtMoTa"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Nhóm Thiết Bị</label>
+            </td>
+            <td>
+                <label class="form-control">@Html.DropDownList("NhomThietBi")</label>
+            </td>
+        </tr>
+       @* <tr>
+             <td>
+                <label>Hình Ảnh</label>
+            </td>
+            <td>
+                <input type="file" name="fileUpLoad" class="form-control" />
+            </td>
+        </tr>*@
+
+        <tr>
+            <td>
+                <label>CPU</label>
+            </td>
+            <td>
+                <input type="text" name="txtCPU" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>RAM</label>
+            </td>
+            <td>
+                <input type="text" name="txtRAM" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Ổ Cứng</label>
+            </td>
+            <td>
+                <input type="text" name="txtOCung" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Màn Hình</label>
+            </td>
+            <td>
+                <input type="text" name="txtManHinh" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Đô Họa</label>
+            </td>
+            <td>
+                <input type="text" name="txtDoHoa" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Pin</label>
+            </td>
+            <td>
+                <input type="text" name="txtPin" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Khác</label>
+            </td>
+            <td>
+                <input type="text" name="txtKhac" class="form-control" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="form-inline">
+                    <input type="submit" value="Xác Nhận" class="btn btn-primary mr-sm-2" />
+                    <a href="@Url.Action("sanpham")" class="btn btn-secondary">Quay Lại</a>
+                </div>
+            </td>
+            <td></td>
+        </tr>
+    </table>
+</form>
+
+

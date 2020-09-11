@@ -1,0 +1,11 @@
+﻿<tests>
+  <add>
+    <first>lenvip</first>
+  </add>
+  <add>
+    <first>1</first>
+  </add>
+  <add>
+    <first>lenvip</first>
+  </add>
+</tests>

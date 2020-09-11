@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+     <div class="form bg-light mt-5 mb-5">
+     <form class="form justify-content-center" action="@Url.Action("XuLyDangNhap","KhachHang")" method="post">
+                   <div class="lead">
+                        <br />
+                        <br />
+                       <div class ="font-weight-bold text-primary text-center">
+                         &nbsp&nbsp&nbsp ĐĂNG NHẬP<span class="sr-only">(current)</span>
+                       </div>
+                          </div>
+                        <br />
+  
+                <div class="col-md-6" style="margin-left:350px">
+                    <div class="form-inline">
+                          <label class="font-weight-bold">Tên đăng nhập</label>
+                          <input class="form-control text-left w-50" style="margin-left:40px" type="text" placeholder="" id="txtTenTK" name="txtTenTK"  />
+                    </div>
+                         
+                <br />
+                    <div class="form-inline">
+                          <label class="font-weight-bold">Mật khẩu</label>
+                          <input class="form-control text-left w-50" style="margin-left:80px" type="password" placeholder="" id="txtMatKhau" name="txtMatKhau" />
+                
+                    </div>
+                 </div>
+                 <div class="form-group col-md-6" style="margin-left:480px">
+                     
+                 
+                      
+                     <br />
+                         <button name="btnDangNhap" type="submit" onclick="return XuLyDangNhap()" class="btn btn-primary" style="margin-bottom:20px; margin-left:10px">ĐĂNG NHẬP</button>
+                     <br />
+                        <a href="@Url.Action("DangKy","KhachHang")">Đăng ký tài khoản</a> &nbsp&nbsp&nbsp
+                 </div>       
+    </form>
+    </div>
+</div>
+
+@if (TempData["message"] != null)
+{
+   @Html.Raw(TempData["message"]) 
+}
+

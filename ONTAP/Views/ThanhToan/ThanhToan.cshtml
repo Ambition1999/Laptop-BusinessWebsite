@@ -1,0 +1,178 @@
+﻿@{
+    ViewBag.Title = "ThanhToan";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+@using ONTAP.Models;
+@model tblKhachHang
+
+
+<div class="container wrapper"  >
+            <div class="row cart-head">
+                <div class="container">
+                <div class="row">
+                    <p></p>
+                    <p></p>
+                </div>
+                <div class="row">
+                    <div style="display: table; margin: auto;">
+                        <span class="step step_complete"> <a href="@Url.Action("XemGio","GioHang")" class="check-bc">Giỏ</a> <span class="step_line step_complete"> </span> <span class="step_line backline"> </span> </span>
+                        <span class="step step_complete"> <a href="#" class="check-bc">Checkout</a> <span class="step_line "> </span> <span class="step_line step_complete"> </span> </span>
+                        <span class="step_thankyou check-bc step_complete">Thank you</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <p></p>
+                </div>
+                </div>
+            </div>    
+            <div class="row cart-body" >
+                <form name="tt"  class="form-horizontal" method="post" action="@Url.Action("XacNhanThanhToan","ThanhToan")" onsubmit="return checkNhap()" >
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 col-md-push-6 col-sm-push-6">
+                    <!--REVIEW ORDER-->
+                    <div class="panel panel-success">
+                        <div class="panel-heading">
+                            Giỏ hàng <div class="pull-right"><small><a class="afix-1" href="@Url.Action("XemGio","GioHang")">Sửa giỏ</a></small></div>
+                        </div>
+                        <div class="panel-body"> 
+                            @Html.Action("PreGioHang", "ThanhToan")
+                    </div>
+                        </div>
+                    <!--REVIEW ORDER END-->
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 col-md-pull-6 col-sm-pull-6">
+                    <!--SHIPPING METHOD-->
+                    <div class="panel panel-success">
+                        <div class="panel-heading">Thông tin khách hàng</div>
+                        <div class="panel-body">
+                            @*<div class="form-group">
+                                <div class="col-md-12">
+                                    <h4>Shipping Address</h4>
+                                </div>
+                            </div>*@
+                            <div class="form-group">
+                                <div class="col-md-12"><strong>Họ và Tên:</strong></div>
+                                <div class="col-md-12">
+                                    <input type="text" class="form-control" name="txtTen" value="@Model.TenKH" />
+                                </div>
+                            </div>
+                            @*<div class="form-group">
+                                <div class="col-md-12"><strong>Giới tính:</strong></div>
+                                <div class="col-md-12">
+                                    <select style="height:30px" name="GioiTinh" class="form-control">
+                                        <option value="0">Nam</option>
+                                        <option value="1">Nữ</option>
+                                        
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-12"><strong>Ngày sinh:</strong></div>
+                                <div class="col-md-12">
+                                    <input type="text" name="txtNgaySinh" class="form-control" value="@Model.NgaySinh" />
+                                </div>
+                            </div>*@
+                            <div class="form-group">
+                                <div class="col-md-12"><strong>Địa chỉ:</strong></div>
+                                <div class="col-md-12">
+                                    <input type="text" name="txtDiaChi" class="form-control" value="@Model.DiaChi" />
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <div class="col-md-12"><strong>Số điện thoại người nhận:</strong></div>
+                                <div class="col-md-12"><input type="text" name="txtSDT" id="txtSDT" class="form-control" value="@Model.DienThoai" /></div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-12"><strong>Địa chỉ nhận hàng:</strong></div>
+                                <div class="col-md-12"><input type="text" name="DiaChiNhan" id="DiaChiNhan" class="form-control" value="@Model.DiaChi" /></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--SHIPPING METHOD END-->
+                    <!--CREDIT CART PAYMENT-->
+                    <div class="panel panel-success">
+                        <div class="panel-heading"><span><i class="glyphicon glyphicon-lock"></i></span> Hình thức thanh toán</div>
+                        <div class="panel-body">
+                            <div class="form-group">
+                                <div class="col-md-12"><strong>Chọn đơn vị vận chuyển:</strong></div>
+                                <div class="col-md-12">
+                                    <select style="height:30px" name="DonViVC" class="form-control">
+                                        <option value="0">Giao hàng nhanh(1-2 ngày)</option>
+                                        <option value="1">Giao hàng tiết kiệm(2-7 ngày)</option>
+                                        
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-12"><strong>Chọn phương thức thanh toán:</strong></div>
+                                <div class="col-md-12">
+                                    <select style="height:30px" name="PTThanhToan" class="form-control">
+                                        <option value="0">Thanh toán khi nhận hàng</option>
+                                        <option value="1">Thanh toán ngay</option>
+                                        
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <div class="col-md-12">
+                                    <span>Pay secure using your credit card.</span>
+                                </div>
+                                <div class="col-md-12">
+                                    <ul class="cards">
+                                        <li class="visa hand">Visa</li>
+                                        <li class="mastercard hand">MasterCard</li>
+                                        <li class="amex hand">Amex</li>
+                                    </ul>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <p>@ViewBag.TB</p>
+                                    <button type="submit" class="btn btn-primary btn-submit-fix">Xác nhận</button>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--CREDIT CART PAYMENT END-->
+                </div>
+                
+                </form>
+            </div>
+            <div class="row cart-footer">
+        
+            </div>
+    
+     <script language="javascript">
+         
+        function checkNhap() {
+            var sdt = document.getElementById('txtSDT').value;
+            if (sdt == "" || sdt == null) {
+                alert("Ban chua nhap so dien thoai !!");
+                return false;
+            }
+            if (phonenumber(sdt) == false) {
+                alert("Sai dinh dang so dien thoai !!");
+                return false;
+            }
+            var dc = document.getElementById('DiaChiNhan').value;
+            if (dc == "" || dc == null) {
+                alert("Ban chua nhap dia chi");
+                return false;
+            }
+
+            return true;
+        }
+        function phonenumber(sdt) {
+            var phoneVN_regex = /((09|03|07|08|05)+([0-9]{8})\b)/g;
+            //Viettel 09, 03; Mobi 09, 07; Vina 09, 08; VietnamMobile GMobli 09, 05
+            if (phoneVN_regex.test(sdt) == false)
+                return false;
+            return true;
+        }
+     </script>
+    
+    </div>

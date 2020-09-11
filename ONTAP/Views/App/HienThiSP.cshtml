@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "HienThiSP";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form>
+ <div class="form-row">
+                <div class="form-group col-md-4">
+                <div class="card card-product">
+                    <img class="card-img-top" src="~/Content/hinh/h1.PNG" alt="Card image cap"/>
+                    <div class="card-body">
+                        <a class="nav-link text-danger" @Html.ActionLink("Appetizers","ChiTietSP",null,new{@class = "text-dark"})><span class="sr-only">(current)</span> </a>
+                         <a>Bruashgawiihbewhegh</a>
+                          
+                    </div>
+                </div>
+                    </div>
+                <div class="form-group col-md-4">
+                    <div class="card card-product">
+                    <img class="card-img-top" src="~/Content/hinh/h2.PNG" alt="Card image cap"/>
+                    <div class="card-body">
+                        <a class="nav-link text-danger"  @Html.ActionLink("Pasta","ChiTietSP",null,new{@class = "text-dark"})><span class="sr-only">(current)</span> </a>
+                        <a>Bruashgawiihbewhegh</a>
+                    </div>
+                </div>
+                  </div>  
+                 <div class="form-group col-md-4">
+                        <div class="card card-product">
+                    <img class="card-img-top" src="~/Content/hinh/h3.PNG" alt="Card image cap"/>
+                    <div class="card-body">
+                        <a class="nav-link text-danger"  @Html.ActionLink("Desserts","ChiTietSP",null,new{@class = "text-dark"})><span class="sr-only">(current)</span> </a>
+                        <a>Bruashgawiihbewhegh</a>
+                    </div>
+                </div>
+                     </div>
+            </div>
+    </form>

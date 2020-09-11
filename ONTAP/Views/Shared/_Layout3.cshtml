@@ -1,0 +1,176 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/StyleSheet1.css" rel="stylesheet" />
+    
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <meta name="keywords" content="Goggles a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design">
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <link href="~/Content/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="~/Content/css/login_overlay.css" rel="stylesheet" type="text/css">
+    <link href="~/Content/css/style6.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/shop.css" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/owl.carousel.css" type="text/css" media="all">
+    <link rel="stylesheet" href="~/Content/css/owl.theme.css" type="text/css" media="all">
+    <link href="~/Content/css/style.css" rel="stylesheet" type="text/css">
+    <link href="~/Content/css/fontawesome-all.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800" rel="stylesheet">
+    <script src="~/Content/kiemtraLogin_Logout.js"></script>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+    @* Phần header*@
+    <div class="form-inline bg-light mt-2">
+
+        <div class="nav-item active ml-2">
+            <div class="text-danger">
+                <div class="font-italic">
+                    <div class="lead">
+                        <a class="nav-link text-danger" href="@Url.Action("SanPham","SanPham")"><h3> LAPTOP - PRO</h3></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="nav-item active ml-5 justify-content-center">
+            @using (Html.BeginForm("KQTimKiemTen", "TimKiem"))
+            {
+               <input name="sTuKhoa" class="form-control" type="text" placeholder="Nhập tên sản phẩm" aria-label="Search" />
+                <button class="btn btn-outline-danger " type="submit" value="tìm kiếm">
+                    <span class="fa fa-search"></span>
+                </button>   
+            }
+        </div>
+        <ul class="nav ml-auto">
+            <li class="nav-item active">
+                <a class="nav-link text-danger " href="#">
+                <i class="fa fa-phone" aria-hidden="true" style="margin-left:18px"></i> <br />
+                <span >Tư vấn</span>
+                    </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link text-danger " href="@Url.Action("LapTop", "SanPham")">
+                <i class="fa fa-laptop" aria-hidden="true" style="margin-left:15px"></i> <br />
+                <span >LapTop</span>
+                    </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link text-danger " href="#">
+                <i class="fa fa-desktop" aria-hidden="true" style="margin-left:50px"></i> <br />
+                <span >PC-Workstation</span>
+                    </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link text-danger " href="@Url.Action("LinhKien", "SanPham")">
+                <i class="fa fa-headphones" aria-hidden="true" style="margin-left:30px"></i> <br />
+                <span >Linh kiện</span>
+                    </a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link text-danger" href="#" id="navbarDropDown" >
+                     <i class="fa fa-user" aria-hidden="true" style="margin-left:30px"></i><br />
+                    <span >Tài khoản</span>
+                </a>
+                <div class="dropdown-content">
+                     @{
+                        if (Session["dangnhap"] == null)
+                        { 
+                             <a class="dropdown-item text-danger" href="@Url.Action("DangNhap", "KhachHang")">Đăng nhập</a>
+                             <a class="dropdown-item text-danger" href="@Url.Action("DangKy", "KhachHang")">Đăng ký</a>
+                        }
+                        else { 
+                             <div class="dropdown-divider"></div>
+                             <a class="dropdown-item text-danger" onclick="confirmLogout()" href="@Url.Action("XuLyDangXuat","KhachHang")">Đăng xuất</a>
+                        }
+                    }  
+                </div>
+            </li>
+            <li class="nav-item active">
+                 <a href="@Url.Action("xemGio","GioHang")"> <i class="fa fa-cart-plus" aria-hidden="true" style="font-size:36px"></i></a>
+            </li>
+
+        </ul>
+
+    </div>
+   
+    @*  Phần nội dung*@
+     <div>
+         @if (TempData["AlertMessage"] != null)
+       { 
+        <div id="AlertBox" class="alert @TempData["AlertType"] hide">
+            @TempData["AlertMessage"]
+        </div>
+       }
+    </div>
+    @*<div class="container">*@
+    @RenderBody()
+
+    @*</div>*@
+
+
+    @* Phần footer bên dưới cùng*@
+    @*<div class="container">*@
+    <div class="form  justify-content-center" style="background-color:#f5c7c7" >
+        <div class="row">
+            <div class="form-group ml-2">
+                <h3><a class="nav-link text-danger" href="#">LAPTOP-PRO</a></h3>
+            </div>
+
+            <div class="form-group col-md-4 ">
+                <div class="font-weight-bold">
+                    <a>TRỢ GIÚP</a><br />
+                </div>
+                <ul>
+                    <li><a class="text-dark" href="@Url.Action("HuongDanSD","Home")">Hướng dẫn mua hàng</a></li>
+                    <li><a class="text-dark" href="@Url.Action("QuyDinhDoiTra","Home")">Quy định đổi trả</a></li>
+                    <li><a class="text-dark" href="@Url.Action("PhuongThucVanChuyen","Home")">Phương thức vận chuyển</a></li>
+                </ul>
+            </div>
+            <div class="form-group col-md-5">
+                <div class="font-weight-bold">
+                    <a>THÔNG TIN CỬA HÀNG</a><br />
+                </div>
+                <a class="text-dark">SDT liên hệ: 1900.63.3579 </a>
+                <br />
+                <a class="text-dark">Địa chỉ: Số 263 Khánh Hội, P5,Q4, TP.HCM</a>
+                <br />
+                <a class="text-dark">Email: laptopprotphcm@gmail.com</a>
+                <br />
+                <a class="text-dark">Fanpage: laptopprotphcm/facebook.com.vn</a>
+
+            </div>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+    <script src="~/Content/jquery-3.3.1.min.js"></script>
+    <script src="~/Content/bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>
+<script>
+    $(document).ready(function () {
+        $('#AlertBox').removeClass('hide');
+        $('#AlertBox').delay(5000).slideUp(500);
+    })
+</script>

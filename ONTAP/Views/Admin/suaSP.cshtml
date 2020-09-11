@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "suaSP";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@using ONTAP.Models;
+@model tblThietBi
+<h2>suaSP</h2>
+<form action="@Url.Action("suaSP", new { msp = @Model.MaTB })" method="post" enctype="multipart/form-data">
+    <table class="w-100">
+        <tr>
+            <td>
+                <label>Tên Thiết Bị</label>
+            </td>
+            <td>
+                <input type="text" name="txtName" value="@Model.TenTB" class="form-control"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Nhãn Hiệu</label>
+            </td>
+            <td>
+                <input type="text" name="txtHH" value="@Model.NhanHieu" class="form-control"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Loại Thiết bị</label>
+            </td>
+            <td>
+                <label class="form-control">@Html.DropDownList("LoaiThietBi")</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Nhà Cung Cấp</label>
+            </td>
+            <td>
+                <label class="form-control">@Html.DropDownList("NhaCungCap")</label>
+            </td>
+        </tr>     
+        <tr>
+            <td>
+                <label>Mô Tả</label>
+            </td>
+            <td>
+@*                <input type="text" name="txtMoTa" value="@Model.MoTa" class="form-control"/>*@
+                  <textarea class="form-control" name="txtMoTa">@Model.ThongTinMoTa</textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Nhóm Thiết Bị</label>
+            </td>
+            <td>
+                <label class="form-control">@Html.DropDownList("NhomThietBi")</label>
+            </td>
+        </tr>      
+        <tr>
+            <td>
+                <div class="form-inline">
+                    <input type="submit" value="Xác Nhận" class="btn btn-primary mr-sm-2" />
+                    <a href="@Url.Action("sanpham")" class="btn btn-secondary">Quay Lại</a>
+                </div>
+            </td>
+            <td></td>
+        </tr>
+    </table>
+</form>
+

@@ -1,0 +1,42 @@
+﻿* {
+    margin:0px;
+    padding:0px;
+}
+.menu {
+    height:1000px;
+    background-color:#232020
+}
+.menu ul li{
+    border-bottom:1px solid #000;
+}
+    .menu ul li:hover a {
+        background-color:#555353;
+    }
+.len {
+    background-color:skyblue;
+    height:100px;
+    width:100px;
+}
+.tren {
+    background-color:#55a6e1;
+}
+    .tren .anh {
+        width:200px;
+        height:70px;
+    }
+.menu .icon {
+    color:#ffffff;
+}
+.divide {
+    width:283px;
+    border-bottom:2px solid #232020;
+}
+.action {
+    transition:all .7s;
+}
+.vao:hover .action{
+    cursor:pointer;
+    transform:scale(1.2);
+    text-align:center;
+    filter:brightness(100%) blur(0.5px);
+}

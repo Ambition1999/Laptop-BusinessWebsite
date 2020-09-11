@@ -1,0 +1,235 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/StyleSheet1.css" rel="stylesheet" />
+    
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <meta name="keywords" content="Goggles a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design">
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <link href="~/Content/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="~/Content/css/login_overlay.css" rel="stylesheet" type="text/css">
+    <link href="~/Content/css/style6.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/shop.css" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/owl.carousel.css" type="text/css" media="all">
+    <link rel="stylesheet" href="~/Content/css/owl.theme.css" type="text/css" media="all">
+    <link href="~/Content/css/style.css" rel="stylesheet" type="text/css">
+    <link href="~/Content/css/fontawesome-all.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800" rel="stylesheet">
+    <script src="~/Content/kiemtraLogin_Logout.js"></script>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	
+</head>
+<body>
+    @* Phần header*@
+    <div class="form-inline bg-light mt-2">
+
+        <div class="nav-item active ml-2">
+            <div class="text-danger">
+                <div class="font-italic">
+                    <div class="lead">
+                        <a class="nav-link text-danger" href="@Url.Action("SanPham","SanPham")"><h3> LAPTOP - PRO</h3></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="nav-item active ml-5 justify-content-center">
+            @using (Html.BeginForm("KQTimKiemTen", "TimKiem"))
+            {
+               <input name="sTuKhoa" class="form-control" type="text" placeholder="Nhập tên sản phẩm" aria-label="Search" />
+                <button class="btn btn-outline-danger " type="submit" value="tìm kiếm">
+                    <span class="fa fa-search"></span>
+                </button>   
+            }
+        </div>
+        <ul class="nav ml-auto">
+            <li class="nav-item active">
+                <a class="nav-link text-danger " href="#">
+                <i class="fa fa-phone" aria-hidden="true" style="margin-left:18px"></i> <br />
+                <span >Tư vấn</span>
+                    </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link text-danger " href="@Url.Action("LapTop", "SanPham")">
+                <i class="fa fa-laptop" aria-hidden="true" style="margin-left:15px"></i> <br />
+                <span >LapTop</span>
+                    </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link text-danger " href="#">
+                <i class="fa fa-desktop" aria-hidden="true" style="margin-left:50px"></i> <br />
+                <span >PC-Workstation</span>
+                    </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link text-danger " href="@Url.Action("LinhKien", "SanPham")">
+                <i class="fa fa-headphones" aria-hidden="true" style="margin-left:30px"></i> <br />
+                <span >Linh kiện</span>
+                    </a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link text-danger" href="#" id="navbarDropDown" >
+                     <i class="fa fa-user" aria-hidden="true" style="margin-left:30px"></i><br />
+                    <span >Tài khoản</span>
+                </a>
+                <div class="dropdown-content">
+                     @{
+                        if (Session["dangnhap"] == null)
+                        { 
+                             <a class="dropdown-item text-danger" href="@Url.Action("DangNhap", "KhachHang")">Đăng nhập</a>
+                             <a class="dropdown-item text-danger" href="@Url.Action("DangKy", "KhachHang")">Đăng ký</a>
+                        }
+                        else { 
+                             <div class="dropdown-divider"></div>
+                             <a class="dropdown-item text-danger" onclick="confirmLogout()" href="@Url.Action("XuLyDangXuat","KhachHang")">Đăng xuất</a>
+                        }
+                    }  
+                </div>
+            </li>
+            <li class="nav-item active">
+                 <a href="@Url.Action("xemGio","GioHang")"> <i class="fa fa-cart-plus" aria-hidden="true" style="font-size:36px"></i></a>
+            </li>
+
+        </ul>
+
+    </div>
+    <div id="carouselExampleIndicators" class="carousel slide mt-1" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div><img style="float:right" src="~/Content/hinh/hinh3.PNG" /></div>
+
+        <div class="carousel-inner" style="width:1000px;height:250px">
+            <div class="carousel-item active">
+                <img class="d-block w-100" src="~/Content/hinh/laptop1.png" style=" width:1000px ;height:250px" alt="First slide" />
+
+            </div>
+
+            <div class="carousel-item">
+                <img class="d-block w-100" src="~/Content/hinh/laptop2.png" style=" width:1000px ;height:250px" alt="Second slide" />
+            </div>
+
+            @*<div class="carousel-item">
+                    <img class="d-block w-100" src="~/Content/HinhAnh/maytinh3.png" width="500px" height="600px" alt="Third slide"/>
+                </div>*@
+
+        </div>
+
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only"></span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only"></span>
+        </a>
+    </div>
+    <h4 style="border-bottom:solid 1px;color:red">Một số gợi ý giúp tìm kiếm nhanh  hơn </h4>
+    <div >
+        @using (Html.BeginForm("KQTimNhanHieu", "TimKiem"))
+        {
+            <button style=" margin: 10px; width: 150px; height: 50px; background-color: white" name="sTuKhoa" type="submit" value="DEll"><img src="~/Content/hinh/sp1.PNG" style="margin-left:15px"></button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="HP"><img src="~/Content/hinh/sp2.PNG" style="margin-left:15px" /></button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="LG"><img src="~/Content/hinh/sp3.PNG" style="margin-left:15px" /></button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="ThinkPad"><img src="~/Content/hinh/sp4.PNG" style="margin-left:15px" /></button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="Lenovo"><img src="~/Content/hinh/sp5.PNG" style="margin-left:15px" /> </button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="Alienware"><img src="~/Content/hinh/sp6.PNG" style="margin-left:15px" /></button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="Razer"><img src="~/Content/hinh/sp7.PNG" style="margin-left:15px" /></button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="msi"><img src="~/Content/hinh/sp8.PNG" style="margin-left:15px" /></button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="asus"><img src="~/Content/hinh/sp9.PNG" style="margin-left:15px" /></button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="acer"><img src="~/Content/hinh/sp10.PNG" style="margin-left:15px" /></button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="apple"><img src="~/Content/hinh/sp11.PNG" style="margin-left:15px" /></button>
+            <button style="margin: 10px; width: 150px; height: 50px; background-color: white; " name="sTuKhoa" type="submit" value="microsoft"><img src="~/Content/hinh/sp12.PNG" style="margin-left:15px" /></button>
+        }
+    </div>
+    <div class="form-inline" style="margin-top:10px">
+        <p style="margin-left:20px"> MỨC GIÁ:</p>
+        <div style="margin-left:20px;">  <a href="@Url.Action("KQTimKiemGia", "TimKiem", new { @GiaTien1 = 10000000, @GiaTien2 = 15000000})">Từ 10-15 triệu</a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimKiemGia", "TimKiem", new { @GiaTien1 = 15000000, @GiaTien2 = 20000000})">Từ 15-20 triệu</a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimKiemGia", "TimKiem", new { @GiaTien1 = 20000000, @GiaTien2 = 25000000})">Từ 20-25 triệu</a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimKiemGia", "TimKiem", new { @GiaTien1 = 25000000, @GiaTien2 = 30000000})">Từ 25-30 triệu</a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimKiemGia", "TimKiem", new { @GiaTien1 = 30000000, @GiaTien2 = 50000000})">Từ 30-50 triệu</a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimKiemGia", "TimKiem", new { @GiaTien1 = 50000000, @GiaTien2 = Int32.MaxValue})">Trên 50 triệu</a></div>
+
+    </div>
+
+    <div class="form-inline" style="margin-top:10px;border-bottom:solid 1px">
+        <p style="margin-left:20px"> NHU CẦU SỬ DỤNG:</p>
+        <div style="margin-left:20px">  <a href="@Url.Action("KQTimNhom", "TimKiem", new { @sTuKhoa = 7})">Văn phòng-Học tập cơ bản</a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimNhom", "TimKiem", new { @sTuKhoa = 6})">Học tập-Chơi game</a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimNhom", "TimKiem", new { @sTuKhoa = 5})">Doanh nhân-Lịch lãm</a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimNhom", "TimKiem", new { @sTuKhoa = 3})">Gamming tầm trung</a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimNhom", "TimKiem", new { @sTuKhoa = 2})">Gamming cao cấp</a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimNhom", "TimKiem", new { @sTuKhoa = 1})">Gamming siêu cấp </a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimNhom", "TimKiem", new { @sTuKhoa = 4})">Đồ họa-Kỹ thuật </a></div>
+        <div style="margin-left:20px">   <a href="@Url.Action("KQTimNhom", "TimKiem", new { @sTuKhoa = 8})">Khác </a></div>
+
+    </div>
+    @*  Phần nội dung*@
+
+    @*<div class="container">*@
+    @RenderBody()
+
+    @*</div>*@
+
+
+    @* Phần footer bên dưới cùng*@
+    @*<div class="container">*@
+    <div class="form  justify-content-center" style="background-color:#f5c7c7" >
+        <div class="row">
+            <div class="form-group ml-2">
+                <h3><a class="nav-link text-danger" href="#">LAPTOP-PRO</a></h3>
+            </div>
+
+            <div class="form-group col-md-4 ">
+                <div class="font-weight-bold">
+                    <a>TRỢ GIÚP</a><br />
+                </div>
+                <ul>
+                    <li><a class="text-dark" href="@Url.Action("HuongDanSD","Home")">Hướng dẫn mua hàng</a></li>
+                    <li><a class="text-dark" href="@Url.Action("QuyDinhDoiTra","Home")">Quy định đổi trả</a></li>
+                    <li><a class="text-dark" href="@Url.Action("PhuongThucVanChuyen","Home")">Phương thức vận chuyển</a></li>
+                </ul>
+            </div>
+            <div class="form-group col-md-5">
+                <div class="font-weight-bold">
+                    <a>THÔNG TIN CỬA HÀNG</a><br />
+                </div>
+                <a class="text-dark">SDT liên hệ: 1900.63.3579 </a>
+                <br />
+                <a class="text-dark">Địa chỉ: Số 263 Khánh Hội, P5,Q4, TP.HCM</a>
+                <br />
+                <a class="text-dark">Email: laptopprotphcm@gmail.com</a>
+                <br />
+                <a class="text-dark">Fanpage: laptopprotphcm/facebook.com.vn</a>
+
+            </div>
+        </div>
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+    <script src="~/Content/jquery-3.3.1.min.js"></script>
+    <script src="~/Content/bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "HoanTat";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thanh Toán</h2>
+
+
+<div>
+     <a class="nav-link text-danger" href="@Url.Action("TrangChu","Home")>
+            <input style="background-color:aqua;color:red" class="form-control col-md-4" type="button" value="Trở về để mua hàng" name="txtthanhtoan" />
+        </a>
+    <marquee> <p style="text-align:center;font:bold;color:blueviolet;font-style:italic;font-size:55px">Cảm ơn  quý khách đặt hàng !!! </p></marquee>
+
+   
+    <img  src="~/Content/hinh/thank.gif" style="width:100%"/>
+</div>

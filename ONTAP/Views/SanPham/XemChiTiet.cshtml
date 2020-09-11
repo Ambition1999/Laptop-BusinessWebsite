@@ -1,0 +1,92 @@
+﻿@using ONTAP.Models;
+@model tblChiTietThietBi
+
+@{
+    ViewBag.Title = "XemChiTiet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2 class="font-weight-bold" style="height:60px; text-decoration-color:#110e75; margin-top:30px; margin-left:30%"> Sản phẩm @Model.tblThietBi.TenTB</h2>
+<div class="form-row">
+    @{string[] arrhinh = Model.tblThietBi.HinhAnhChung.Split(',');}
+    <div class="wrapper_top_shop">
+        <div class="form-row">
+            <div class="form-group col-md-5">
+                <img src=@Url.Content("~/Content/hinh/" + arrhinh[0]+ ".jpg") width="400" height="290" style="margin-left:60px" />
+                <img src=@Url.Content("~/Content/hinh/" + arrhinh[0]+ ".jpg") width="130" height="80" style="margin:10px" />
+                <img src=@Url.Content("~/Content/hinh/" + arrhinh[1]+ ".jpg") width="130" height="80" style="margin:10px" />
+                <img src=@Url.Content("~/Content/hinh/" + arrhinh[2]+ ".jpg") width="130" height="80" style="margin:10px" />
+                <img src=@Url.Content("~/Content/hinh/" + arrhinh[3]+ ".jpg") width="130" height="80" style="margin:10px" />
+                <img src=@Url.Content("~/Content/hinh/" + arrhinh[4]+ ".jpg") width="130" height="80" style="margin:10px" />
+            </div>
+
+
+            <div class="form-group col-md-7 single-right-left">
+                <table class="table">
+                    @{
+                        if (Model.tblThietBi.MaLoai == 1)
+                        {
+                            <tbody style="border-bottom: solid 1px">
+                                <tr>
+                                    <td colspan="2"><h3 style="border-left: solid 7px #733de8; color:#733de8"> &nbsp   Thông số kỹ thuật: </h3></td>
+                                </tr>
+                                <tr style="border-bottom: solid 1px #e5e0e0">
+                                    <td> CPU:</td>
+                                    <td> @Model.CPU </td>
+                                </tr>
+                                <tr style="border-bottom: solid 1px #e5e0e0">
+                                    <td>RAM: </td>
+                                    <td>@Model.RAM </td>
+
+                                </tr>
+                                <tr style="border-bottom: solid 1px #e5e0e0">
+                                    <td> Ổ cứng:</td>
+                                    <td> @Model.OCung</td>
+
+                                </tr>
+                                <tr style="border-bottom: solid 1px #e5e0e0">
+                                    <td>Màn hình: </td>
+                                    <td>@Model.ManHinh</td>
+
+                                </tr>
+                                <tr style="border-bottom: solid 1px #e5e0e0">
+                                    <td> Card đồ họa: </td>
+                                    <td>@Model.DoHoa </td>
+
+                                </tr>
+                                <tr style="border-bottom: solid 1px #e5e0e0">
+                                    <td>Pin: </td>
+                                    <td>@Model.Pin</td>
+
+                                </tr>
+                                <tr style="border-bottom: solid 1px #e5e0e0">
+                                    <td> Thông tin khác:</td>
+                                    <td>@Model.Khac </td>
+                                </tr>
+                            </tbody>
+                        }
+                    }
+
+                    <tr>
+                        <td> Giá bán: </td>
+                        <td><h3 style="color:#733de8">@Model.GiaTien.ToString("#,##") VNĐ </h3></td>
+                    </tr>
+                    <tr>
+                        @if (@Model.SoLuong == 0)
+                        { 
+                            <td colspan="2"><h3 style="color:red">Hết hàng</h3></td>
+                        }
+                        else { 
+                            <td colspan="2"> <a href="@Url.Action("themGio", "GioHang", new { @maTB = @Model.MaTB, @maCauHinh = @Model.MaCauHinh })" class="btn" style="background-color:#4572aa; color:#e5e0e0">Đặt mua </a></td>
+                        }
+
+                    </tr>
+                </table>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+

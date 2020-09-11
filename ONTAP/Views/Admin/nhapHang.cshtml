@@ -1,0 +1,95 @@
+﻿@model IEnumerable<ONTAP.Models.tblChiTietThietBi>
+
+@{
+    ViewBag.Title = "SanPham";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Nhập Hàng</h2>
+<div class="header">
+    <ol class="breadcrumb">
+        <li><a href="@Url.Action("index")">Home /</a></li>
+        <li><a href="@Url.Action("nhaphang")" class="ml-2"> NhapHang /</a></li>
+        <li class="active ml-2"> Data</li>
+    </ol>
+</div>
+<table>
+    <tr>
+        <th>
+            <h6>Mã TB</h6>
+        </th>
+        <th>
+            <h6>Tên TB</h6>
+        </th>
+        <th>
+            <h6>Nhãn Hiệu</h6>
+        </th>
+        <th>
+            <h6>Loại TB</h6>
+        </th>
+        <th>
+            <h6>Nhà Cung Cấp</h6>
+        </th>
+        <th>
+            <h6>Thông Tin</h6>
+        </th>
+          <th>
+            <h6>Hình Ảnh</h6>
+        </th>
+        <th>
+            <h6>Ngày Upload</h6>
+        </th>
+        <th>
+            <h6>Nhóm TB</h6>
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblThietBi.MaTB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblThietBi.TenTB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblThietBi.NhanHieu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblThietBi.tblLoaiThietBi.TenLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblThietBi.tblNhaCungCap.TenNCC)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblThietBi.ThongTinMoTa)
+            </td>
+            <td>
+                @* @Html.DisplayFor(modelItem => item.HinhAnh)*@
+                @try
+                {
+                    var i = item.tblThietBi.HinhAnhChung;
+                    string[] arr = i.Split(',');
+                    var anh = arr[0];
+                    <img style="width:100px;height:100px" src="@Url.Content("/Content/hinh/" + anh + ".jpg")" />
+                }
+                catch
+                {
+
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblThietBi.NgayUpLoad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblThietBi.tblNhomTB.TenNhom)
+            </td>
+            <td>
+                @Html.ActionLink("Xem Chi Tiết", "XemChiTiet", new { @maTB = item.MaTB, @maCauHinh = item.MaCauHinh }) |
+            </td>
+        </tr>
+    }
+
+</table>

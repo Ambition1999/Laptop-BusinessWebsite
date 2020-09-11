@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a749ecbce7a44680b2e1506aa09af12c" Name="Diagram1">
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblChiTietHD" Width="1.5" PointX="10.5" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblChiTietPhieuNhap" Width="1.5" PointX="7.5" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblChiTietPhieuXuat" Width="1.5" PointX="7.5" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblChiTietThietBi" Width="1.5" PointX="5.25" PointY="17" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblGiaoHang" Width="1.5" PointX="7.5" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblHoaDon" Width="1.5" PointX="5.25" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblKhachHang" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblLoaiNhanVien" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblLoaiThietBi" Width="1.5" PointX="0.75" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblNhaCungCap" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblNhanVien" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblNhomTB" Width="1.5" PointX="0.75" PointY="19.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblPhieuNhapHang" Width="1.5" PointX="5.25" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblPhieuXuatHang" Width="1.5" PointX="5.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblTaiKhoan" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblThanhToan" Width="1.5" PointX="7.5" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlybanlaptop2Model.tblThietBi" Width="1.5" PointX="3" PointY="17.375" IsExpanded="true" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblChiTietHD_tblChiTietThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblChiTietHD_tblHoaDon" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblChiTietPhieuNhap_tblChiTietThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblChiTietPhieuNhap_tblPhieuNhapHang" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblChiTietPhieuXuat_tblChiTietThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblChiTietPhieuXuat_tblPhieuXuatHang" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblChiTietThietBi_tblThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblGiaoHang_tblHoaDon" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblHoaDon_tblKhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblHoaDon_tblNhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblThanhToan_tblHoaDon" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblKhachHang_tblTaiKhoan" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblNhanVien_tblLoaiNhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblThietBi_tblLoaiThietBi" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblPhieuNhapHang_tblNhaCungCap" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblThietBi_tblNhaCungCap" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblNhanVien_tblTaiKhoan" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblPhieuNhapHang_tblNhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblPhieuXuatHang_tblNhanVien_XuatHang" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlybanlaptop2Model.FK_tblThietBi_tblNhomTB" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

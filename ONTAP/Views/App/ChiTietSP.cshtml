@@ -1,0 +1,108 @@
+﻿@{
+    ViewBag.Title = "ChiTietSP";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<form action="App/Sanpham" method="post" enctype="multipart/form-data">
+    <div class="row">
+    <div class="col-md-8">
+        <div class="row">
+            <div class="form-group col-md-auto">
+                 <img class="card-img-top" src="~/Content/hinh/h4.PNG" alt="Card image cap"/>
+                </div>
+             <div class="form-group col-md-6">
+                         <a class="nav-item text-danger">Appetizers<span class="sr-only">(current)</span> </a>
+                 <br/>
+                       <a class="nav-item">
+                          
+                           <div class="lead">
+                                <div class ="font-weight-bold">
+                               Brushc hetta dhuegu wgbfag dsas<span class="sr-only">(current)</span> </div>
+                               </div>
+                               </a>
+                
+                <a class="nav-item"> <h6>April 10,2019 1 comment</h6></a>
+                 <a class="nav-item"> qopae apq aihag aighaigvaidnvayw9u aoy8a9d d dhahdaf duweug daoiag iadfuaiw hgai ừi hdfw idha i a
+                     fsdgjsng sgrh ư99 dhapu puq u2 equt tou29t qu92t qu baitba giyaqag ai73 eqg afhwiywf aywig qpqa ayg 1 agqw  ayi eqyuifh
+                     gadgoqw (...)</a>
+                       </div>
+        </div>
+          <div class="dropdown-divider"></div>
+      <a class="nav-item text-danger">DESSERTS<span class="sr-only">(current)</span> </a>
+    <br/>
+        <div class="form-row">
+                <div class="form-group col-md-4">
+                <div class="card card-product">
+                    <img class="card-img-top" src="~/Content/hinh/h5.PNG" alt="Card image cap"/>
+                    <div class="card-body">
+                        <a class="nav-link text-danger" @Html.ActionLink("Appetizers","ChiTietSP",null,new{@class = "text-dark"})><span class="sr-only">(current)</span> </a>
+                         <a>Bruashgawiihbewhegh</a>
+                          
+                    </div>
+                </div>
+                    </div>
+                <div class="form-group col-md-4">
+                    <div class="card card-product">
+                    <img class="card-img-top" src="~/Content/hinh/h6.PNG" alt="Card image cap"/>
+                    <div class="card-body">
+                        <a class="nav-link text-danger"  @Html.ActionLink("Pasta","ChiTietSP",null,new{@class = "text-dark"})><span class="sr-only">(current)</span> </a>
+                        <a>Bruashgawiihbewhegh</a>
+                    </div>
+                </div>
+                  </div>  
+                 <div class="form-group col-md-4">
+                        <div class="card card-product">
+                    <img class="card-img-top" src="~/Content/hinh/h7.PNG" alt="Card image cap"/>
+                    <div class="card-body">
+                        <a class="nav-link text-danger"  @Html.ActionLink("Desserts","ChiTietSP",null,new{@class = "text-dark"})><span class="sr-only">(current)</span> </a>
+                        <a>Bruashgawiihbewhegh</a>
+                    </div>
+                </div>
+                     </div>
+            </div>
+   </div>
+     <div class="form-group col-md-4">
+          <div class="form bg-light">
+              <form>
+              <div class="form-group">
+                  <br />
+                  <br />
+                   <div class="lead">
+                       <div class ="font-weight-bold text-danger text-center">
+                          SUBSCRIBE TO UOR NEWSLETTER<span class="sr-only">(current)</span>
+                       </div>
+                          </div>
+                  <br />
+                      <div class="form-group text-center">
+                          <h6>Subscribe to our newsletter and receive new recipes in your ibox</h6>
+                      </div>
+                       <div class="form-group">
+                          <input class="form-control" type="Firstname" placeholder="First name" name="txt1" aria-label="First name"/>
+                  </div>
+                       <div class="form-group">
+                          <input class="form-control" type="Lastname" placeholder="Last name" name="txt2" aria-label="Last name"/>
+                  </div>
+                       <div class="form-group">
+                          <input class="form-control" type="Email" placeholder="Email*" name="txt3" aria-label="Email"/>
+                  </div>
+                  <div class="form-group text-center">
+                         <button id="Submit1" type="submit" value="submit" class="btn btn-danger">SUBSCRIBE</button>
+                    </div>
+                  <br />
+                 
+                       
+                     </div>
+                  </form>
+              </div>
+
+
+
+
+           
+
+
+
+
+          </div>
+     </div>
+ 
+    </form>

@@ -1,0 +1,106 @@
+﻿@{
+    ViewBag.Title = "XemGio";
+    Layout = "~/Views/Shared/_Layout3.cshtml";
+}
+@using ONTAP.Models;
+@model List<item>
+<script src="js/jquery-1.11.1.min.js"></script>
+<script src="~/Content/bootstrap/js/bootstrap.min.js"></script>
+<link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<h2 class="text-center">Trang Giỏ Hàng</h2>
+<div class="container">
+    <p>
+                @TempData["Message"]</p>
+    <table id="cart" class="table table-hover table-condensed">
+        <thead>
+            <tr>
+                <th style="width: 30%">Tên sản phẩm</th>
+                <th style="width: 14%">Cấu Hình</th>
+                <th style="width: 13%">Giá</th>
+                <th style="width: 13%">Số lượng</th>
+                <th style="width: 20%" class="text-center">Thành tiền</th>
+                <th style="width: 10%"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var i in Model)
+            {
+                    <tr>
+                        <td data-th="Product">
+                            <div class="row">
+                                <div class="col-sm-4 hidden-xs">
+                                    @*<img src="" alt="Sản phẩm 1" class="img-responsive" width="100">*@
+                                    <img src="@Url.Content("~/Content/hinh/" + i.hinh+ ".jpg")" class="img-responsive" width="100"/>
+                                </div>
+                                <div class="col-sm-8 ml-10">
+                                    <h4 class="nomargin" id="tenTB">@i.tenTB</h4>
+                                    <p>@i.moTa</p>
+                                </div>
+                            </div>
+                        </td>
+                        <td data-th="CauHinh">@i.tenCauHinh</td>
+                        <td data-th="Price" id="gia">@i.gia.ToString("#,##") VNĐ</td>
+                        <td data-th="Quantity">
+                            <a href="@Url.Action("AddSL", "GioHang", new {maTB=@i.maTB,maCauHinh=@i.cauHinh })" class="btn btn-success btn-block" onclick="return myFunTang('@i.sl')">+</a>
+						    <input type="number" class="form-control text-center" value="@i.sl" disabled="disabled"/>
+                            <a onclick="return myFunGiam('@i.sl')" href="@Url.Action("MinorSL", "GioHang", new {maTB=@i.maTB,maCauHinh=@i.cauHinh })" class="btn btn-warning btn-block">-</a>
+                        </td>
+                        <td data-th="Subtotal" class="text-center" id="thanhTien">@i.thanhTien.ToString("#,##") VNĐ</td>
+                        <td>
+                            <a href="@Url.Action("xoaHang", new { maTB = @i.maTB,maCauHinh=@i.cauHinh })" class="btn btn-danger btn-sm fa fa-trash-o">Delete</a>
+                        </td>
+                    </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td><a href="@Url.Action("SanPham","SanPham")" class="btn btn-warning"><i ></i>Tiếp tục mua hàng</a>
+                </td>
+                <td colspan="2" class="hidden-xs"></td>
+                <td class="hidden-xs text-center"><strong>@ViewBag.tongTien.ToString("#,##") VNĐ</strong>
+                </td>
+                <td><a href="@Url.Action("ThanhToan","ThanhToan")" class="btn btn-success btn-block">Thanh toán <i ></i></a>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+<script>
+    function myFunTang(x) {
+        if (x ==4)
+        {
+            alert("Không Thể Đặt Quá 4 Sản Phẩm");
+            return false;
+            //swal("Không Thể Đặt Ít Quá 4 Sản Phẩm");
+            //$(document).on('click', 'a', function (e) {
+            //    e.preventDefault();
+            //    e.stopImmediatePropagation();
+            //    return false;
+            //});
+        }
+        return true;
+    }
+    function myFunGiam(x) {
+        if (x == 1) {
+            alert("Không Thể Đặt Ít Hơn 1 Sản Phẩm");
+            return false;
+            //swal("Không Thể Đặt Ít Hơn 1 Sản Phẩm");
+            //$(document).on('click', 'a', function (e) {
+            //    e.preventDefault();
+            //    e.stopImmediatePropagation();
+            //    return false;
+            //});
+            
+            
+
+        }
+        return true;
+    }
+</script>
+@if (TempData["message"] != null)
+{
+   @Html.Raw(TempData["message"]) 
+}
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+

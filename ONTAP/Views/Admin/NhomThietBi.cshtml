@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ONTAP.Models.tblNhomTB>
+
+@{
+    ViewBag.Title = "NhomThietBi";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Nhóm Thiết Bị</h2>
+<div class="header">
+    <ol class="breadcrumb">
+        <li><a href="@Url.Action("index")">Home /</a></li>
+        <li><a href="@Url.Action("nhomthietbi")" class="ml-2"> NhomThietBi /</a></li>
+        <li class="active ml-2"> Data</li>
+    </ol>
+</div>
+<p>
+    @Html.ActionLink("Thêm mới", "NhomThietBi")
+</p>
+<table class="w-100">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MaNhomTB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TenNhom)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaNhomTB)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenNhom)
+        </td>
+        <td>
+            @Html.ActionLink("Chỉnh Sủa", "NhomThietBi", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Chi Tiết", "NhomThietBi", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Xóa", "NhomThietBi", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

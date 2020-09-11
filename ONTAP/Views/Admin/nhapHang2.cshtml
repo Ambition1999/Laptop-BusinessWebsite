@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "nhapHang2";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Xử Lý Nhập Hàng</h2>
+<form action="@Url.Action("nhapHang2")" method="post" enctype="multipart/form-data">
+    <table class="w-100">
+        <tr>
+            <td>
+                <label>Số Lượng</label>
+            </td>
+            <td>
+                <input type="number" name="sl" class="form-control"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Đơn Giá</label>
+            </td>
+            <td>
+                <input type="number" name="gia" class="form-control"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Nhà Cung Cấp</label>
+            </td>
+            <td>
+                <label class="form-control">@Html.DropDownList("NhaCungCap")</label>
+            </td>
+        </tr>        
+        <tr>
+            <td>
+                <div class="form-inline">
+                    <input type="submit" value="Xác Nhận" class="btn btn-primary mr-sm-2" />
+                    <a href="@Url.Action("nhapHang")" class="btn btn-secondary">Quay Lại</a>
+                </div>
+            </td>
+            <td></td>
+        </tr>
+    </table>
+</form>
+
+

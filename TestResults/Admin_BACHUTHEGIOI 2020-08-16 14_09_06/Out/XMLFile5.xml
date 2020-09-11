@@ -1,0 +1,11 @@
+﻿<tests>
+  <add>
+    <first>0123456789</first>
+  </add>
+  <add>
+    <first>0324567890</first>
+  </add>
+  <add>
+    <first>0923456780</first>
+  </add>
+</tests>

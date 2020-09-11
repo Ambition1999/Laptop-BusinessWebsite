@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "DonHang";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@using ONTAP.Models;
+@model List<tblHoaDon>
+
+<div class="table-responsive">
+                      <table class="table">
+                        <thead>
+                          <tr>
+                             <th> # </th>
+                            <th> Mã hóa đơn </th>
+                            <th> Tên hóa đơn </th>
+                            <th> Ngày lập hóa đơn </th>
+                            <th> Tổng tiền </th>
+                           <th> # </th>
+                           
+                          </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                foreach(var h in @Model){
+                                  <tr>
+                                    <td>
+                                      <a href="@Url.Action("ThanhToanHoaDon", "Admin", new {mahd=@h.MaHD,option=0 })" class="btn btn-primary"> Thanh toán</a> </td>
+                                    <td> @h.MaHD </td>
+                                    <td>
+                                      <label class="badge badge-gradient-success">@h.TenHD</label>
+                                    </td>
+                                    <td> @h.NgayHD.ToShortDateString() </td>
+                                    <td> @h.TongTien $ </td>
+                                      <td>
+                                      <a href="@Url.Action("ThanhToanHoaDon", "Admin", new {mahd=@h.MaHD,option=1 })" class="btn btn-success">Hủy hóa đơn</a> </td>
+                                  </tr>
+                            }
+                            }
+                          @*<tr>
+                            <td>
+                              <img src="~/Content/images/faces/face2.jpg" class="mr-2" alt="image"> Stella Johnson </td>
+                            <td> High loading time </td>
+                            <td>
+                              <label class="badge badge-gradient-warning">PROGRESS</label>
+                            </td>
+                            <td> Dec 12, 2017 </td>
+                            <td> WD-12346 </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <img src="~/Content/images/faces/face3.jpg" class="mr-2" alt="image"> Marina Michel </td>
+                            <td> Website down for one week </td>
+                            <td>
+                              <label class="badge badge-gradient-info">ON HOLD</label>
+                            </td>
+                            <td> Dec 16, 2017 </td>
+                            <td> WD-12347 </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <img src="~/Content/images/faces/face4.jpg" class="mr-2" alt="image"> John Doe </td>
+                            <td> Loosing control on server </td>
+                            <td>
+                              <label class="badge badge-gradient-danger">REJECTED</label>
+                            </td>
+                            <td> Dec 3, 2017 </td>
+                            <td> WD-12348 </td>
+                          </tr>*@
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+

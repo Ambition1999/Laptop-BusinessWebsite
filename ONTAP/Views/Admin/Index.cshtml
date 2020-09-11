@@ -1,0 +1,66 @@
+﻿@{
+    ViewBag.Title = "index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@*<div class="row">
+        <div style="height: 100px; background-color: #0094ff" class="w-100 col-md-12"></div>
+    </div>*@
+<div class="row">
+    <p style="font-size: 20px; font-weight: bold">Trang Quản Trị Admin</p>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <div style="background-color: #00ffff; height: 150px;margin-left:10px">
+            <i class="fas fa-clipboard-list fa-6x" style="margin-left:10px"></i>
+            <div class="divide"></div>
+            <div style="background-color:#64bcbc;height:52px" class="vao">
+                <p class="action"><a href="@Url.Action("NhomThietBi","Admin")" style="color:#ffffff">Danh Mục Sản Phẩm</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div style="background-color: #00ff90; height: 150px;margin-left:10px">
+            <i class="fab fa-battle-net fa-6x" style="margin-left:10px"></i>
+            <div class="divide"></div>
+            <div style="background-color:#63b691;height:52px" class="vao">
+            <p class="action"><a href="@Url.Action("SanPham","Admin")" style="color:#ffffff">Sản Phẩm</a></p>
+                </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div style="background-color: #ff6a00; height: 150px;margin-left:10px">
+            <i class="fas fa-user-friends fa-6x" style="margin-left:10px"></i>
+            <div class="divide"></div>
+            <div style="background-color:#ba6c35;height:52px" class="vao">
+            <p class="action"><a href="@Url.Action("KH","Admin")" style="color:#ffffff">Thành Viên</a></p>
+                </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div style="background-color: #f83f3f; height: 150px;margin-top:20px;margin-left:10px">
+            <i class="fab fa-amazon-pay fa-6x" style="margin-left:10px"></i>
+            <div class="divide"></div>
+            <div style="background-color:#c43333;height:52px" class="vao">
+            <p class="action"><a href="@Url.Action("DonHang","Admin")" style="color:#ffffff">Đơn Hàng</a></p>
+                </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div style="background-color: #ffd800; height: 150px;margin-left:10px;margin-top:20px;margin-left:10px">
+            <i class="fas fa-igloo fa-6x" style="margin-left:10px"></i>
+            <div class="divide"></div>
+            <div style="background-color:#d7ba10;height:52px" class="vao">
+            <p class="action"><a href="@Url.Action("NhapHang","Admin")" style="color:#ffffff">Nhập Hàng</a></p>
+                </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div style="background-color: #b6ff00; height: 150px;margin-left:10px;margin-top:20px;margin-left:10px">
+            <i class="fas fa-book-open fa-6x" style="margin-left:10px"></i>
+            <div class="divide"></div>
+            <div style="background-color:#aad639;height:52px" class="vao">
+            <p class="action"><a href="@Url.Action("ThongKe","Admin")" style="color:#ffffff">Thống Kê</a></p>
+                </div>
+        </div>
+    </div>
+</div>

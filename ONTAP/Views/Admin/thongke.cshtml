@@ -1,0 +1,199 @@
+﻿@{
+    ViewBag.Title = "DonHang";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@using ONTAP.Models;
+@model List<tblHoaDon>
+
+<!-- partial -->
+<div>
+    <div class="content-wrapper">
+        <div class="row" id="proBanner">
+            <div class="col-12">
+                @* <span class="d-flex align-items-center purchase-popup">
+                  <p>@*Like what you see? Check out our premium version for more.</p>
+                  <a href="https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template" target="_blank" class="btn ml-auto download-button">@*Download Free Version</a>
+                  <a href="https://www.bootstrapdash.com/product/purple-bootstrap-4-admin-template/" target="_blank" class="btn purchase-button">@*Upgrade To Pro</a>
+                  <i class="mdi mdi-close" id="bannerClose"></i>
+                </span>*@
+            </div>
+        </div>
+        <div class="page-header">
+            <h3 class="page-title">
+                <span class="page-title-icon bg-gradient-primary text-white mr-2">
+                    <i class="mdi mdi-home"></i>
+                </span>Dashboard </h3>
+            <nav aria-label="breadcrumb">
+                <ul class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <span></span>Overview <i class="mdi mdi-alert-circle-outline icon-sm text-primary align-middle"></i>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        @Html.Action("ThongKeMain", "Admin")
+
+        <div class="row">
+            <div class="col-md-7 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="clearfix">
+                            <h4 class="card-title float-left">@*Visit And Sales Statistics*@</h4>
+                            <div id="visit-sale-chart-legend" class="rounded-legend legend-horizontal legend-top-right float-right"></div>
+                        </div>
+                        @*<canvas id="visit-sale-chart" class="mt-4"></canvas>*@
+                        @Html.Action("ThongKeThuongHieu", "Admin")
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">@*Traffic Sources*@</h4>
+                        @Html.Action("ThongKeTheoThuongHieu", "Admin")
+                        <div id="traffic-chart-legend" class="rounded-legend legend-vertical legend-bottom-left pt-4"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 grid-margin">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title"><a href="@Url.Action("DonHang", "Admin")">Đơn hàng chưa thanh toán </a></h4>
+                        <div class="row">
+                            <div class="col-12 grid-margin stretch-card">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Recent Updates</h4>
+                                        <div class="d-flex">
+                                            <div class="d-flex align-items-center mr-4 text-muted font-weight-light">
+                                                <i class="mdi mdi-account-outline icon-sm mr-2"></i>
+                                                <span>jack Menqu</span>
+                                            </div>
+                                            <div class="d-flex align-items-center text-muted font-weight-light">
+                                                <i class="mdi mdi-clock icon-sm mr-2"></i>
+                                                <span>October 3rd, 2018</span>
+                                            </div>
+                                        </div>
+                                        <div class="row mt-3">
+                                            <div class="col-6 pr-1">
+                                                <img src="~/Content/images/dashboard/img_1.jpg" class="mb-2 mw-100 w-100 rounded" alt="image">
+                                                <img src="~/Content/images/dashboard/img_4.jpg" class="mw-100 w-100 rounded" alt="image">
+                                            </div>
+                                            <div class="col-6 pl-1">
+                                                <img src="~/Content/images/dashboard/img_2.jpg" class="mb-2 mw-100 w-100 rounded" alt="image">
+                                                <img src="~/Content/images/dashboard/img_3.jpg" class="mw-100 w-100 rounded" alt="image">
+                                            </div>
+                                        </div>
+                                        <div class="d-flex mt-5 align-items-top">
+                                            <img src="~/Content/images/faces/face3.jpg" class="img-sm rounded-circle mr-3" alt="image">
+                                            <div class="mb-0 flex-grow">
+                                                <h5 class="mr-2 mb-2">School Website - Authentication Module.</h5>
+                                                <p class="mb-0 font-weight-light">It is a long established fact that a reader will be distracted by the readable content of a page.</p>
+                                            </div>
+                                            <div class="ml-auto">
+                                                <i class="mdi mdi-heart-outline text-muted"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-9 grid-margin stretch-card">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Trạng thái sản phẩm</h4>
+                                        @Html.Action("TrangThaiSanPham", "Admin")
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 grid-margin stretch-card">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h4 class="card-title text-white">Todo</h4>
+                                        <div class="add-items d-flex">
+                                            <input type="text" class="form-control todo-list-input" placeholder="What do you need to do today?">
+                                            <button class="add btn btn-gradient-primary font-weight-bold todo-list-add-btn" id="add-task">Add</button>
+                                        </div>
+                                        <div class="list-wrapper">
+                                            <ul class="d-flex flex-column-reverse todo-list todo-list-custom">
+                                                <li>
+                                                    <div class="form-check">
+                                                        <label class="form-check-label">
+                                                            <input class="checkbox" type="checkbox">
+                                                            Meeting with Alisa
+                                                        </label>
+                                                    </div>
+                                                    <i class="remove mdi mdi-close-circle-outline"></i>
+                                                </li>
+                                                <li class="completed">
+                                                    <div class="form-check">
+                                                        <label class="form-check-label">
+                                                            <input class="checkbox" type="checkbox" checked>
+                                                            Call John
+                                                        </label>
+                                                    </div>
+                                                    <i class="remove mdi mdi-close-circle-outline"></i>
+                                                </li>
+                                                <li>
+                                                    <div class="form-check">
+                                                        <label class="form-check-label">
+                                                            <input class="checkbox" type="checkbox">
+                                                            Create invoice
+                                                        </label>
+                                                    </div>
+                                                    <i class="remove mdi mdi-close-circle-outline"></i>
+                                                </li>
+                                                <li>
+                                                    <div class="form-check">
+                                                        <label class="form-check-label">
+                                                            <input class="checkbox" type="checkbox">
+                                                            Print Statements
+                                                        </label>
+                                                    </div>
+                                                    <i class="remove mdi mdi-close-circle-outline"></i>
+                                                </li>
+                                                <li class="completed">
+                                                    <div class="form-check">
+                                                        <label class="form-check-label">
+                                                            <input class="checkbox" type="checkbox" checked>
+                                                            Prepare for presentation
+                                                        </label>
+                                                    </div>
+                                                    <i class="remove mdi mdi-close-circle-outline"></i>
+                                                </li>
+                                                <li>
+                                                    <div class="form-check">
+                                                        <label class="form-check-label">
+                                                            <input class="checkbox" type="checkbox">
+                                                            Pick up kids from school
+                                                        </label>
+                                                    </div>
+                                                    <i class="remove mdi mdi-close-circle-outline"></i>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- content-wrapper ends -->
+                    <!-- partial:partials/_footer.html -->
+                    <footer class="footer">
+                        <div class="d-sm-flex justify-content-center justify-content-sm-between">
+                            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2017 <a href="https://www.bootstrapdash.com/" target="_blank">BootstrapDash</a>. All rights reserved.</span>
+                            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Hand-crafted & made with <i class="mdi mdi-heart text-danger"></i></span>
+                        </div>
+                    </footer>
+                    <!-- partial -->
+                </div>
+                <!-- main-panel ends -->
+            </div>
+            <!-- page-body-wrapper ends -->
+        </div>
+    </div>
+</div>

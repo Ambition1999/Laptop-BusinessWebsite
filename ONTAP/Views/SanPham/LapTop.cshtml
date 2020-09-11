@@ -1,0 +1,21 @@
+﻿@using ONTAP.Models
+@using PagedList.Mvc
+
+@model PagedList.IPagedList<tblChiTietThietBi>
+
+
+@{
+    ViewBag.Title = "SanPham";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    PagedList.IPagedList lstLT = ViewBag.lstLt as PagedList.IPagedList;
+}
+<h3 class="tittle-w3layouts my-lg-4 my-4">Sản phẩm </h3>
+@Html.Partial("~/Views/SanPham/SanPhamPartial.cshtml", lstLT)
+
+<div class="dlink">
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+    @Html.PagedListPager(Model, Page => Url.Action("LapTop", new { Page = Page }))
+</div> 

@@ -1,0 +1,38 @@
+﻿@using ONTAP.Models;
+@model List<item>
+
+@foreach(var a in Model){
+                            <div class="form-group">
+                                <div class="col-sm-3 col-xs-3">
+                                    <img class="img-responsive" src="@Url.Content("~/Content/hinh/" + @a.hinh+ ".jpg")" />
+                                </div>
+                                <div class="col-sm-6 col-xs-6">
+                                    <div class="col-xs-12">@a.tenTB</div>
+                                    <div class="col-xs-12"><small>Số lượng:<span>@a.sl</span></small></div>
+                                </div>
+                                <div class="col-sm-3 col-xs-3 text-right">
+                                    <h6>@a.thanhTien.ToString("#,##") VNĐ<span>VNĐ</span></h6>
+                                </div>
+                            </div>
+                            }
+        
+                            
+                            <div class="form-group"><hr /></div>
+                            <div class="form-group">
+                                <div class="col-xs-12">
+                                    <strong>Thành tiền:</strong>
+                                    <div class="pull-right"><span></span><span>@ViewBag.tt.ToString("#,##") VNĐ</span></div>
+                                </div>
+                                <div class="col-xs-12">
+                                    <small>Phí vận chuyển</small>
+                                    <div class="pull-right"><span>0 VNĐ</span></div>
+                                </div>
+                            </div>
+                            <div class="form-group"><hr /></div>
+                            <div class="form-group">
+                                <div class="col-xs-12">
+                                    <strong>Tổng:</strong>
+                                    <div class="pull-right"><span></span><span>@ViewBag.tt.ToString("#,##") VNĐ</span></div>
+                                </div>
+                            </div>
+
